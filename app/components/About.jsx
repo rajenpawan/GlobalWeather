@@ -8,6 +8,7 @@ var About = (props) =>{
     </div>
   )
 };
+
 // var About = React.createClass({
 //   render: function(){
 //     return(
