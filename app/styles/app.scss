@@ -1,11 +1,20 @@
 $space-large: 3.0rem;
-$title-color: #555;
+$title-color: white;
 .page-title{
   color: $title-color;
   margin-top: $space-large;
   margin-bottom: $space-large;
 }
+body{
+  background-image: url("https://umad.com/img/2015/10/world-map-wallpaper-background-4709-4956-hd-wallpapers.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 
+}
 input[type=search]{
   box-shadow: none;
+}
+p{
+  color: black;
+  font-weight: 400;
 }
