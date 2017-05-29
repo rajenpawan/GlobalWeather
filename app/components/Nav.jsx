@@ -36,7 +36,6 @@ var Nav = React.createClass({
     </form>
   </div>
   </div>
-
     );
   }
 });
